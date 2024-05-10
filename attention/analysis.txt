@@ -1,0 +1,55 @@
+# Analysis
+
+## Layer TODO, Head TODO
+
+TODO
+
+Example Sentences:
+
+- TODO
+- TODO
+
+## Layer TODO, Head TODO
+
+TODO
+
+Example Sentences:
+
+- TODO
+- TODO
+
+4 / 11
+to school
+We went to school to study [MASK].
+to -> school
+After work, they went to a bar to [MASK].
+to -> bar
+
+no one i see
+Each man went his own [MASK].
+Each -> man - determiner accompanying the noun man
+
+3 / 9
+man -> his, his -> man -
+
+4 / 10
+I gave [MASK] to the man.
+the -> man - direct object accompanying the noun man
+
+
+1 / 9
+She sees the dog in the [MASK].
+sees -> dog -> verb to direct object
+![Attention_Layer1_Head9](https://github.com/me50/nesus261/assets/139874032/9cdaa69c-f00d-471f-8fb3-39e2f81336e8)
+The students eat a cake that tastes like [MASK].
+eat -> cake 
+![Attention_Layer1_Head9](https://github.com/me50/nesus261/assets/139874032/575d4094-9f16-4ef3-8a9e-92e71fb41439)
+
+
+4 / 10 
+Your attitude is not funny that [MASK]. 
+is - > funny -> verb to Adjective 
+![Attention_Layer4_Head10](https://github.com/me50/nesus261/assets/139874032/f0940355-5b49-437f-8311-b91444b3e4b1)
+These are very interesting [MASK]. 
+are -> interesting 
+![Attention_Layer4_Head10](https://github.com/me50/nesus261/assets/139874032/1d480f8f-2a32-4ebf-a62e-c1afc7723a5a)
