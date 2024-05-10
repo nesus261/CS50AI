@@ -13,7 +13,7 @@ Projects for CS50's Introduction to Artificial Intelligence with Python.
         </li>
     	<li>
         
-[Tic-Tac-Toe](https://github.com/nesus261/CS50AI/edit/main/)
+[Tic-Tac-Toe](/tictactoe)
         </li>
   	</ul>
   </li>
@@ -21,11 +21,63 @@ Projects for CS50's Introduction to Artificial Intelligence with Python.
   	<ul>
     	<li>
         
-[Knights](https://github.com/nesus261/CS50AI/edit/main/)
+[Knights](/knights)
         </li>
     	<li>
         
-[Minesweeper](https://github.com/nesus261/CS50AI/edit/main/)
+[Minesweeper](/minesweeper)
+        </li>
+  	</ul>
+  </li>
+  <li>Project 2
+  	<ul>
+    	<li>
+        
+[PageRank](/pagerank)
+        </li>
+    	<li>
+        
+[Heredity](/heredity)
+        </li>
+  	</ul>
+  </li>
+  <li>Project 3
+  	<ul>
+    	<li>
+        
+[Crossword](/crossword)
+        </li>
+  	</ul>
+  </li>
+  <li>Project 4
+  	<ul>
+    	<li>
+        
+[Shopping](/shopping)
+        </li>
+    	<li>
+        
+[Nim](/nim)
+        </li>
+  	</ul>
+  </li>
+  <li>Project 5
+  	<ul>
+    	<li>
+        
+[Traffic](/traffic)
+        </li>
+  	</ul>
+  </li>
+  <li>Project 6
+  	<ul>
+    	<li>
+        
+[Parser](/parser)
+        </li>
+    	<li>
+        
+[Attention](/attention)
         </li>
   	</ul>
   </li>
