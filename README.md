@@ -65,7 +65,7 @@ Projects for CS50's Introduction to Artificial Intelligence with Python.
   	<ul>
     	<li>
         
-[Traffic](/traffic)
+[Traffic](/traffic/traffic)
         </li>
   	</ul>
   </li>
