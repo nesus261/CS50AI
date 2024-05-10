@@ -1,6 +1,8 @@
 # CS50AI
 Projects for CS50's Introduction to Artificial Intelligence with Python.
 
+<br>
+
 #### Video demonstration of traffic project:
 https://youtu.be/0Ukwfxvv_dw
 
